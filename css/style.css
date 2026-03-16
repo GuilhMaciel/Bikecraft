@@ -7,10 +7,14 @@
 
 /* HOME */
 @import "./home/introducao.css";
+@import './home/tecnologia.css';
+@import "./home/parceiros.css";
 
 /* UTILIDADES */
-@import "./utilidades/componentes.css"
+@import "./utilidades/componentes.css";
 
+/* BICICLETAS */
+@import "./bicicletas/bicicletas-lista.css"
 
 
 
