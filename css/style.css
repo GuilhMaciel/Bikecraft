@@ -1,20 +1,17 @@
-/* GLOBAL */
 @import "./global/global.css";
 @import "./utilidades/tipografia.css";
-@import './utilidades/cores.css';
+@import "./utilidades/cores.css";
 
 @import "./global/header.css";
 
-/* HOME */
-@import "./home/introducao.css";
-@import './home/tecnologia.css';
-@import "./home/parceiros.css";
-
-/* UTILIDADES */
+/* Utilidades */
 @import "./utilidades/componentes.css";
 
-/* BICICLETAS */
-@import "./bicicletas/bicicletas-lista.css"
+/* Home */
+@import "./home/introducao.css";
+@import "./home/tecnologia.css";
+@import "./home/parceiros.css";
+@import "./home/depoimento.css";
 
-
-
+/* Bicicletas */
+@import "./bicicletas/bicicletas-lista.css";
